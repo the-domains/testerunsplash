@@ -1,6 +1,7 @@
 name: testerUnsplash
 favicon: null
 layout_spectrum: 0.54516
+typography_spectrum: 0.67213
 cta:
   domain: null
   bucket: null
