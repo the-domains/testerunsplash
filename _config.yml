@@ -1,7 +1,7 @@
 name: testerUnsplash
 favicon: null
 layout_spectrum: 0.31304
-typography_spectrum: 0.45056
+typography_spectrum: 0.81789
 cta:
   domain: null
   bucket: null
@@ -21,9 +21,9 @@ color:
     - '#000000'
     - '#4d3e43'
     - '#d9b4ab'
-  brandStrength: 0.25
-  lightness: 0.9375
-  saturation: 0.375
+  brandStrength: 0.4375
+  lightness: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose:
   - name: awareness
